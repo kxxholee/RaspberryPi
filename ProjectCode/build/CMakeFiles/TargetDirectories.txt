@@ -1,0 +1,3 @@
+/home/pi/working/ProjectCode/CTesting/build/CMakeFiles/rebuild_cache.dir
+/home/pi/working/ProjectCode/CTesting/build/CMakeFiles/edit_cache.dir
+/home/pi/working/ProjectCode/CTesting/build/CMakeFiles/TermProject17.dir
