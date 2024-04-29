@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/pi/working/ProjectCode/CTesting/build",
-  "command": "/usr/bin/c++  -I/home/pi/working/ProjectCode/CTesting/tensorflow -isystem /usr/local/include/opencv4 -std=gnu++11 -o CMakeFiles/TermProject17.dir/main.cpp.o -c /home/pi/working/ProjectCode/CTesting/main.cpp",
-  "file": "/home/pi/working/ProjectCode/CTesting/main.cpp"
-}
-]
